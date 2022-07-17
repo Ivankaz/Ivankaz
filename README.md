@@ -47,11 +47,9 @@
 IDE: **PhpStorm, Atom, Vim/GVim**\
 Работа с MariaDB: **adminer.php, DBeaver**
 
-[Дипломы за занятие призовых мест](https://github.com/Ivankaz/my-awards) в конкурсах по информатике и научно-практических конференциях
-
 ### Свяжитесь со мной
 Иван Казаков, Ульяновск\
-**Telegram: [@ivankazakovblog](https://t.me/ivankazakovblog)**\
-Телефон: +79170594815 (звоните после 15 часов по Москве, до этого времени я на работе)\
+**Telegram: [@ivankazakovblog](https://t.me/ivankazakovblog)** (в любое время)\
+Телефон: +79170594815 (звоните после 15 часов по Москве)\
 VK: [vk.com/ivankaz](https://vk.com/ivankaz)\
 Почта: ivankaz9@yandex.ru
