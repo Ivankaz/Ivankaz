@@ -49,7 +49,7 @@ IDE: **PhpStorm, Atom, Vim/GVim**\
 
 ### Свяжитесь со мной
 Иван Казаков, Ульяновск\
-**Telegram: [@ivankazakovblog](https://t.me/ivankazakovblog)** (в любое время)\
-Телефон: +79170594815 (звоните после 15 часов по Москве)\
+**Telegram: [@ivankazakovblog](https://t.me/ivankazakovblog)**\
+Телефон: +79170594815\
 VK: [vk.com/ivankaz](https://vk.com/ivankaz)\
 Почта: ivankaz9@yandex.ru
